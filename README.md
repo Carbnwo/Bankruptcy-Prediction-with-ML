@@ -8,3 +8,4 @@ The project includes a Jupyter notebook that walks through the process of cleani
 
 The model is built using popular machine learning libraries such as Pandas, Numpy, and Scikit-learn. The project utilizes several algorithms such as Logistic Regression, Decision Tree, Support Vector Machine to evaluate the best fit model.
 
+
